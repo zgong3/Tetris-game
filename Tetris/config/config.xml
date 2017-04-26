@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+<frame title="Java Tetris by Zhanpeng Gong" width = "1220" height="700" size = "9">
+<Layout class="gsu.tetris.ui.LayoutBackground" x="0" y="0" w="0" h="0"/>
+<Layout class="gsu.tetris.ui.LayoutButton" x="825" y="32" w="338" h="100"/>
+<Layout class="gsu.tetris.ui.LayoutCount" x="50" y="32" w="338" h="594"/>
+<Layout class="gsu.tetris.ui.LayoutGame" x="438" y="32" w="338" h="594"/>
+<Layout class="gsu.tetris.ui.LayoutLevel" x="1025" y="164" w="138" h="130"/>
+<Layout class="gsu.tetris.ui.LayoutNext" x="825" y="164" w="190" h="130"/>
+<Layout class="gsu.tetris.ui.LayoutScore" x="825" y="325" w="338" h="295"/>
+</frame>
+</game>
